@@ -1,0 +1,16 @@
+body{
+    background-image:url(1.jpg);
+    background-size: cover;
+    background-position: center;
+    }
+    h3{
+    font-size: 25px !important;
+    }
+    .btn-success:hover{
+    background-color: yellowgreen;
+    }
+    canvas{
+    animation-name:example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    }
